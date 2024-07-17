@@ -16,8 +16,11 @@ Timeliness and Risk Mitigation: Hotels with robust project management complete p
 *Statistical Analysis*
 
 Histograms: Display the distribution of importance ratings.
+
 Normal P-P Plots: Show the distribution of errors, confirming model reliability.
+
 Scatterplots: Illustrate the relationship between project management importance and hotel success.
+
 Descriptive Statistics, Correlation, and ANOVA: Provide detailed insights into factors influencing hotel operations.
 
 *Conclusion*
