@@ -6,8 +6,6 @@ This project analyzes the pivotal role of project management in enhancing operat
 
 *Key Insights*
 
-Operational Efficiency: 22% of respondents rate project management as "very important" for streamlining processes, optimizing resources, and ensuring smooth operations.
-
 Cost Savings: Effective project management significantly reduces operational costs, as evidenced by positive regression models.
 
 Guest Satisfaction: Proper project management aligns with guest expectations, enhancing the overall guest experience.
