@@ -1,4 +1,5 @@
 **Project Management in Hotel Operations: Analytical Study**
+
 *Overview*
 This project analyzes the pivotal role of project management in enhancing operational efficiency, cost savings, guest satisfaction, and overall success in the hotel industry. Using SPSS for statistical analysis, the study evaluates the impact of project management practices on key performance indicators.
 
