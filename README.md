@@ -26,5 +26,7 @@ Investing in robust project management practices is crucial for hotels to achiev
 *Tools and Techniques*
 
 SPSS: For statistical analysis.
+
 Data Visualization: Graphs and charts to illustrate key findings.
+
 Regression Analysis: To examine the relationship between project management and hotel success.
